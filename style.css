@@ -16,6 +16,20 @@ header, footer {
 
 nav li {
 	list-style: none;
+	display: inline;
+	margin-left: 50px;
+}
+
+nav a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 26px;
+}
+
+.menu{
+	position: absolute;
+	top: 60px;
+	right: 90px;
 }
 
 main {
